@@ -1,0 +1,6 @@
+pt-BR:
+  faker:
+    drink:
+      soft: ["Coca-cola", "Coca-cola diet", "Pepsi", "Sukita", "Fanta", "Guaraná"]
+      liquor: ["Cachaça", "Rum", "Vodka", "Whisky"]
+      wine: ["Riesling", "Chardonnay", "Sauvignon blanc", "Cabernet sauvignon", "Syrah", "Pinot noir"]

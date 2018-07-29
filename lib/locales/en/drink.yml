@@ -1,0 +1,6 @@
+en:
+  faker:
+    drink:
+      soft: ["Coke", "Diet Coke", "Pepsi", "Dr Pepper", "Fanta"]
+      liquor: ["Whiskey", "Bourbon", "Vodka", "Ouze", "Rum", "Sake", "Brandy", "Absinthe"]
+      wine: ["Riesling", "Chardonnay", "Sauvignon blanc", "Cabernet sauvignon", "Syrah", "Pinot noir"]
